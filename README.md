@@ -1,2 +1,2 @@
-# Lensky_wedding_page
+# Lenski_wedding_page
 Welcome to my father's photography website. Enjoy! 
