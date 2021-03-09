@@ -3,3 +3,23 @@
     margin: 0;
     padding: 0;
 }
+
+.header{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgba(122, 115, 115, 0.2);
+}
+
+.header__link{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    text-decoration: none;
+    font-size: 67px;
+}
+
+.header__span{
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-size: 29px;
+}
